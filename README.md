@@ -1,3 +1,10 @@
+***
+## Screenshots
+![Screenshot 2023-07-25 210844](https://github.com/adiri77/newsbomber/blob/master/src/screenshort/1699599657117.jpg)
+![Screenshot 2023-07-25 211309](https://github.com/adiri77/newsbomber/blob/master/src/screenshort/1699599127116.jpg)
+![Screenshot 2023-07-25 211451](https://github.com/adiri77/newsbomber/blob/master/src/screenshort/1699599009366.jpg)
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
